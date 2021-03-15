@@ -16,7 +16,7 @@
 
 Цель: Попробовать на практике базовые структуры языка C#
 # Литература 
-[Editor Config](https://editorconfig.org/)
-[Pro Git (1,2,3 главы)](https://git-scm.com/book/ru/v2)
-[C# Metanit (1,2 главы)](https://metanit.com/sharp/tutorial/)
+* [Editor Config](https://editorconfig.org/)
+* [Pro Git (1,2,3 главы)](https://git-scm.com/book/ru/v2)
+* [C# Metanit (1,2 главы)](https://metanit.com/sharp/tutorial/)
 
